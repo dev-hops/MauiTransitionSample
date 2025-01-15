@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiTransitionSample.Views.MainPage"
              Title="{Binding Title}"
-             BackgroundColor="LightBlue">
+             BackgroundColor="White">
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
         <Label Text="This is the Main Page"
                SemanticProperties.HeadingLevel="Level1"
